@@ -1,0 +1,32 @@
+# n8n data
+.n8n/
+n8n-data/
+
+# Environment variables
+.env
+
+# Database data
+mysql_data/
+*.sql
+*.sqlite
+*.sqlite-journal
+
+# Ollama data
+ollama_data/
+
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/ 
